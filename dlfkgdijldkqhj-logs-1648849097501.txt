@@ -1,0 +1,10 @@
+2022-04-01T21:27:17.866608+00:00 heroku[web.1]: Process exited with status 1
+2022-04-01T21:27:17.919038+00:00 heroku[web.1]: State changed from starting to crashed
+2022-04-01T21:27:29.384238+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=dlfkgdijldkqhj.herokuapp.com request_id=00a1cde3-46da-49af-b880-db4143dd2b1e fwd="84.102.222.134" dyno= connect= service= status=503 bytes= protocol=https
+2022-04-01T21:27:29.554692+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=dlfkgdijldkqhj.herokuapp.com request_id=6bb24a02-5cc9-4967-af9c-f55aa8e868c9 fwd="84.102.222.134" dyno= connect= service= status=503 bytes= protocol=https
+2022-04-01T21:27:37.639865+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=dlfkgdijldkqhj.herokuapp.com request_id=a21f3aa8-a4db-4cba-b9ff-878a0e28dae0 fwd="84.102.222.134" dyno= connect= service= status=503 bytes= protocol=https
+2022-04-01T21:27:37.762599+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=dlfkgdijldkqhj.herokuapp.com request_id=8d36c44c-4198-4510-a381-a0d7f597b1b2 fwd="84.102.222.134" dyno= connect= service= status=503 bytes= protocol=https
+2022-04-01T21:37:47.547791+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=dlfkgdijldkqhj.herokuapp.com request_id=0baea4ab-32a0-480e-ad9e-67c752198856 fwd="84.102.222.134" dyno= connect= service= status=503 bytes= protocol=https
+2022-04-01T21:37:47.688385+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=dlfkgdijldkqhj.herokuapp.com request_id=ee05c6b9-8d3b-4821-8fd7-aa07c24af252 fwd="84.102.222.134" dyno= connect= service= status=503 bytes= protocol=https
+2022-04-01T21:37:58.205993+00:00 app[api]: Scaled to web@0:Free by user niyo1732@gmail.com
+2022-04-01T21:37:59.006676+00:00 heroku[web.1]: State changed from crashed to down
